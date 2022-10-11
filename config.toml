@@ -1,4 +1,4 @@
-baseURL = "https://mentalreaper.github.io/"
+baseURL = "https://mentalreaper.github.io/hugo-portfolio-website"
 languageCode = "en-gb"
 title = "Alexander JD Conn"
 theme = "PaperMod"
